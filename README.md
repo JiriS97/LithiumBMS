@@ -3,6 +3,8 @@ This project is 1-6S Li-Ion/Li-Pol Battery management system, with balancer, loa
 and advanced features as external monitoring/setting over UART and temperature measurement
 Development of this board began for BUT (VUT Brno in Czech), on Robotics course.
 
+It also includes configurator app, which can be found in [this repo](https://github.com/JiriS97/LithiumBMS-Configurator).
+
 ## Supported batteries
 All Li-Ion and Li-Pol batteries of 1-6 serially connected cells
 

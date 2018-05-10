@@ -1,0 +1,3 @@
+[submodule "stm32-cpp"]
+	path = stm32-cpp
+	url = https://JiriS97@bitbucket.org/JiriS97/stm32-cpp.git

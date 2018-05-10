@@ -1,0 +1,10 @@
+Debug/
+.vs/
+
+*.dep
+*.d
+*.o
+*.crf
+*.lnp
+*.iex
+*.lst
